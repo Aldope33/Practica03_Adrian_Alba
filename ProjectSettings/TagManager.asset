@@ -47,9 +47,15 @@ TagManager:
   - name: Escenario
     uniqueID: 452606753
     locked: 0
-  - name: Objetos
+  - name: Plataformas
     uniqueID: 305784365
+    locked: 0
+  - name: Objetos
+    uniqueID: 3454749135
     locked: 0
   - name: Personaje
     uniqueID: 1323369259
+    locked: 0
+  - name: "Men\xFA"
+    uniqueID: 3743539797
     locked: 0
