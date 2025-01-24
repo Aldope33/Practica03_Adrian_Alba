@@ -27,7 +27,7 @@ public class Character : MonoBehaviour
     {
 
         moveInput = value.Get<float>();
-        animator.SetBool("Move", moveInput != 0);
+        animator.SetBool("Run", moveInput != 0);
         if (moveInput < 0)
         {
             spriteRenderer.flipX = true;
